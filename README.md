@@ -1,38 +1,51 @@
-# Inteligencia_Artificial_LuizaSantana_6-D_Matutino
+# Atividades - Inteligência Artificial
 
-Repositório desenvolvido para a disciplina de **Inteligência Artificial**, contendo a resolução de uma série de exercícios práticos em **Python**.
+Repositório destinado às atividades desenvolvidas na disciplina de Inteligência Artificial. As atividades foram realizadas utilizando Python e o Google Colab como ambiente principal de desenvolvimento.
 
-## Sobre o projeto Exercícios de Python
+## Atividades
 
-Este projeto reúne **50 exercícios de Python**, desenvolvidos com o objetivo de praticar e consolidar os principais conceitos da linguagem. As atividades abrangem desde fundamentos da programação até conteúdos de nível intermediário.
+### Atividade 01 - Exercícios de Python
 
-Entre os principais conceitos trabalhados estão:
+A primeira atividade é composta por 50 exercícios com o objetivo de praticar e consolidar os conhecimentos fundamentais e intermediários de Python.
 
-* Variáveis e tipos de dados
-* Operadores e expressões
-* Estruturas condicionais
-* Estruturas de repetição
-* Listas e manipulação de dados
-* Dicionários
-* Funções
-* Módulos e bibliotecas
-* Entrada e saída de dados
-* Lógica de programação
+O desenvolvimento foi realizado em um único notebook no Google Colab, contendo os códigos, comentários e explicações de cada exercício.
 
-## Organização
+Arquivo:
 
-Os exercícios foram desenvolvidos e testados utilizando o **Google Colab**, reunidos em um notebook de forma sequencial e organizada.
+Exercícios_Python_LuizaSantana_6ºD_Matutino.ipynb
 
-Cada exercício contém sua respectiva implementação e explicações sobre a lógica utilizada na resolução, buscando demonstrar o entendimento dos conceitos aplicados.
-
-## Objetivo
-
-O principal objetivo deste repositório é registrar o desenvolvimento das atividades práticas da disciplina e acompanhar a evolução dos conhecimentos em programação com Python.
-
-Além da resolução dos exercícios, o projeto busca desenvolver boas práticas de programação, como **organização, clareza, legibilidade, testes e compreensão da lógica utilizada em cada solução**.
+Data de entrega: 14/08/2026
 
 ---
 
-**Disciplina:** Inteligência Artificial
-**Linguagem:** Python
-**Ambiente de desenvolvimento:** Google Colab
+### Atividade 02 - Bibliotecas de Data Science
+
+A segunda atividade teve como objetivo praticar e consolidar os conhecimentos relacionados às principais bibliotecas de Data Science utilizadas em Python.
+
+Foram trabalhadas as seguintes bibliotecas:
+
+* NumPy
+* SciPy
+* Pandas
+* Matplotlib
+
+Os exercícios foram desenvolvidos e testados individualmente no Google Colab, organizados em um único notebook.
+
+Arquivo:
+
+Atividade_DataScience_LuizaSantana_6ºD_Matutino.ipynb
+
+Data de entrega: 23/08/2026
+
+---
+
+## Tecnologias e ferramentas
+
+* Python
+* Google Colab
+* NumPy
+* SciPy
+* Pandas
+* Matplotlib
+* GitHub
+
